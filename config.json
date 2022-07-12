@@ -1,0 +1,22 @@
+{
+    "postgresql":{
+        "host":"localhost",
+        "user":"postgres",
+        "password":"buyung12345",
+        "database":"db_FinalProject",
+        "port":5432
+    },
+    
+    "datawarehouse":{
+        "host":"localhost",
+        "user":"postgres",
+        "password":"buyung12345",
+        "database":"dwh_FinalProject",
+        "port":5432
+    },
+    
+    "hadoop":{
+        "ip":"http://localhost:9870",
+        "user":"Yaafiasyari"
+    }
+}
